@@ -1,4 +1,5 @@
 # Requirements Document
+Updated functional requirements
 
 ## Functional Requirements
 1. User can search books by title or author.
